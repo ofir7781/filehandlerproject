@@ -1,0 +1,3 @@
+get_pokemon_weight, "Pikachu"
+string_in, "abcde", "bdc"
+test_no_exist_function 54
